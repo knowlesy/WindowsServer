@@ -1,2 +1,2 @@
 # WindowsServer
-Windows Server /Services  related scripts 
+Windows Server / Services  related scripts 
